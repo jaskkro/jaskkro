@@ -4,12 +4,13 @@
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build"
-	"start": "node public/index.js"
+    "build": "vue-cli-service build",
+    "start": "node server.js"
   },
   "dependencies": {
     "@mdi/font": "^3.6.95",
     "core-js": "^3.4.4",
+    "express": "^4.17.1",
     "roboto-fontface": "*",
     "vue": "^2.6.10",
     "vuetify": "^2.1.0",
