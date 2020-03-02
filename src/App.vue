@@ -7,6 +7,7 @@
 </template>
 
 <script>
+
 import HomeWrapper from './components/HomeWrapper.vue';
 
 export default {
