@@ -10,7 +10,7 @@
   "dependencies": {
     "@mdi/font": "^3.6.95",
     "core-js": "^3.4.4",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "node-spotify-api": "^1.1.1",
     "roboto-fontface": "*",
     "vue": "^2.6.10",
